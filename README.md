@@ -1,6 +1,11 @@
-# am_week
+# AM_Week Challenge
 
-A new Flutter application.
+Catchphrase Flutter application.
+
+AS AN INITIATIVE OF AM TEAM WE WANT TO DEVELOP A GAME FOR ENGLISH LANGUAGE IMPROVEMENT IN THE CONVERTATIONAL CLUB
+
+WE ENCOURAGE YOU TO START CONTRIBUTING TO OUR PROJECT
+
 
 ## Getting Started
 
